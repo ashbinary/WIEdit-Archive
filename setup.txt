@@ -1,0 +1,13 @@
+[For Randomize mode and Edit mode]
+Place these 3 files in the root folder.
+- WeaponInfoMain.Product.<version number>.rstbl.byml.zs
+- WeaponInfoSub.Product.<version number>.rstbl.byml.zs
+- WeaponInfoSpecial.Product.<version number>.rstbl.byml.zs
+
+[For Obtain mode]
+Place these 2 files in the root folder.
+- WeaponInfoMain.Product.<version number>.rstbl.byml.zs
+- WeaponInfoMain.Product.<later version number>.rstbl.byml.zs
+
+Change what you want to be applied in the config.txt.
+Every setting comes with its own description.

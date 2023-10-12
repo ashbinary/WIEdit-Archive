@@ -1,0 +1,20 @@
+# Change what you're doing with the tool (edit, random, obtain)
+type=random
+
+# Allow selection/randomization of Bomb_Splash_Big_Coop subweapon
+bombsplashbig=true
+
+# Allow selection/randomization of Hero subweapons
+herosubs=true
+
+# Allow selection/randomization of all subweapons
+illegalsubs=false
+
+# Allow selection/randomization of Splashdown
+splashdown=true
+
+# Allow selection/randomization of Rainmaker/Little Buddy
+unintendedspecs=false
+
+# Allow selection/randomization of all special weapons
+illegalspecials=false
